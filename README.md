@@ -8,4 +8,5 @@ In today's competitive business landscape, customer feedback plays a crucial rol
 
 ## Data Description + Data Source
 The Yelp dataset consists of 5 JSON files: buiness, checkin, review, tip, and user, covering 150,346 businesses and 6,990,280 reviews. Of particular interest is the business table, which contains over 1.2 million business attributes including hours, parking availability, and ambience. Upon merging with the review table, the resulting table will comprise roughly 6 million rows and require about 8 GB of storage space.
+
 Source: https://www.yelp.com/dataset/documentation/main
