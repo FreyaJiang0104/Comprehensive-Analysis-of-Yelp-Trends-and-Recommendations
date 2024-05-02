@@ -1,5 +1,7 @@
 # Comprehensive-Analysis-of-Yelp-Trends-and-Recommendations
 
+Group Members: Ruiqi Jiang, Yuanshan Zhang, Ananya Anand, Shizuka Takahashi, Shubham Mishra
+
 ## Executive Summary
 This Yelp analysis notebook provides a comprehensive evaluation of the situation and trends, with a particular focus on businesses, users, and reviews spanning from 2005 to 2022. The analysis covers various dimensions, including business categories and rating distributions, offering insights into customer satisfaction and business performance. Towards the end of the project, we delved into key findings using Machine Learning techniques in Big Data and presented explanatory visualizations. Based on these findings, it was concluded that classifying businesses and users into various segments can aid Yelp's recommendation system. Additionally, conducting LDA and sentiment analysis on reviews can help businesses improve themselves, leading to the attraction and retention of users.
 
